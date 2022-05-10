@@ -1,0 +1,456 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+}
+.valon{
+    margin-top: 2%;
+}
+.nav ul li{
+    display: inline;
+    padding: 1%;
+    margin-left: 5.5%;
+}
+p{
+    margin-top: 10%;
+    margin-left: 16%;
+}
+h2{
+    margin-left: 15%; 
+}
+.inspire{
+    margin-left: 50%;
+    margin-top: -40%;
+    /* height: 10%; */
+    display: flex;
+    background-color: #eeeeee;
+    width: 650px;
+}
+.pak{
+    /* margin-left: 68px; */
+}
+strong{
+    color: #8cb481;
+}
+.glue{
+    margin-left: 50%;
+    margin-top: 1%;
+    /* height: 10%; */
+    display: flex;
+    background-color: #eeeeee;
+    width: 650px;
+}
+.sale{
+    /* background-color: #f4f2f3; */
+    width: 20%;
+    height: 15px;
+    margin-left: 2%;
+    margin-top: 10%;
+}
+.sale h1{
+    margin-left: 3%;
+    margin-top: 15%;
+    margin-bottom: -10%;
+}
+.sale p{
+    margin-left: 3%;
+    margin-bottom: 2%;
+}
+.pic{
+    margin-left: 30%;
+    margin-top: -110.5px;
+}
+.hplants{
+    /* background-color: #f4f2f3; */
+    width: 20%;
+    height: 15px;
+    margin-left: 10%;
+    margin-top: -2.5%;
+    padding-left: 20%;
+}
+.hplants h3{
+    margin-left: 30%;
+    margin-top: 10%;
+    margin-bottom: -9%;
+}
+.hplants p{
+    margin-left: 32%;
+    margin-bottom: 2%; 
+}
+.pict{
+    margin-left: 38%;
+    margin-top: -80.5px;
+}
+.homepot{
+    /* background-color: #f4f2f3; */
+    width: 20%;
+    height: 15px;
+    margin-left: 10%;
+    margin-top: -1%;
+    padding-left: 50%;
+}
+.homepot{
+    margin-left: 15%;
+    /* margin-top: 10%; */
+    margin-bottom: -10%;
+}
+.homepot p{
+    /* margin-left: 0%; */
+    margin-bottom: 2%; 
+}
+.picture{
+    margin-left: 55%;
+    margin-top: -190.5px;
+}
+/* .store{ */
+    /* padding-top: 90px; */
+    /* display: inline-flex; */
+    /* padding-left: 5px; */
+/* } */
+.texted{
+    margin-top: -19.5%;
+    display: flex;
+    padding: 35%;
+    text-align: center;
+    justify-content: center;
+}
+.ooo{
+    margin-left: -50px;
+}
+.nnn{
+    margin-left: 2%;
+}
+.eee{
+    margin-left: 2%;
+}
+.planter p{
+    margin-left: 2%;
+    margin-top: -19%;
+}
+.potplant{
+    margin-left: 0%;
+    margin-top: -20%;
+}
+.plantes{
+    margin-left: 5%;
+    margin-top: -9.5%;
+}
+.potplan{
+    margin-left: 9.5%;
+    margin-top: -21.5%;
+}
+.pointer{
+    margin-left: 20.5%;
+    margin-top: -8%;
+}
+.pointerphoto{
+    margin-left: 9.5%;
+    margin-top: -27.5%;
+}
+.planter p{
+    margin-left: 2%;
+    margin-top: -19%;
+}
+.potplant{
+    margin-left: 0%;
+    margin-top: -20%;
+}
+.plantes{
+    margin-left: 5%;
+    margin-top: -9.5%;
+}
+.potplan{
+    margin-left: 9.5%;
+    margin-top: -21.5%;
+}
+.pointer{
+    margin-left: 20.5%;
+    margin-top: -8%;
+}
+.pointerphoto{
+    margin-left: 9.5%;
+    margin-top: -27.5%;
+}
+.click{
+    margin-top: 8%;
+}
+.com{
+    margin-top: 40%;
+}
+.pottypic{
+    float: right;
+    margin-right: 10%;
+    margin-top: -40%;
+}
+.pottypic p{
+    margin-left: 50%;
+}
+button{
+    height: 5vh;
+    width: 100px;
+    border: none;
+    margin-right: 30px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #6ea820;
+}
+.sweet{
+    margin-top: 10%;
+    text-align: center;
+}
+.sweet p{
+    margin-top: 1.5%;
+}
+.clear h2{
+    margin-left: 50%;
+    margin-top: -25%;
+}
+.clear p{
+    margin-left: 50%;
+    margin-top: 3%;
+}
+.stk {
+    margin-left: 50%;
+    margin-top: 2%;
+}
+.stk p{
+    margin-top: -3.5%; 
+}
+.stk button{
+    margin-top: 4%; 
+}
+.living{
+    text-align: center;
+    margin-top: 10%;
+    width: 1000px;
+    margin-left: 13%;
+    background-color: #eeeeee;
+    
+}
+.living p{
+    /* text-align: center; */
+    margin-left: 13%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+.living strong{
+    margin-left: 2%;
+}
+.living h1{
+    margin-left: 15%;
+    margin-top: -3.5%;
+}
+.living .aaa{
+    margin-left: 13%;
+}
+.single{
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.gallery{
+    display: flex;
+    padding: 0% 15%;
+}
+.potsy p{
+   margin-top: 2%;
+   margin-left: 1.5%;
+}
+.potsy img{
+    margin-top: 4%; 
+}
+.potpot p{
+    margin-left: 20%;
+    margin-top: -2.5%;
+}
+.potpot img{
+    margin-left: -5%;
+    margin-top: 9%;
+}
+/* .gut p{
+
+} */
+.gut img{
+    padding-top: 3%;
+}
+.cet{
+    display: flex;
+    padding: 0% 15%;
+}
+.potsy p{
+   margin-top: 2%;
+   margin-left: 1.5%;
+}
+.potsy img{
+    margin-top: 4%; 
+}
+.potpot p{
+    margin-left: 20%;
+    margin-top: -2.5%;
+}
+.potpot img{
+    margin-left: -5%;
+    margin-top: 9%;
+}
+.jik{
+    display: flex;
+    padding: 0% 15%;
+}
+.potsy p{
+   margin-top: 2%;
+   margin-left: 1.5%;
+}
+.potsy img{
+    margin-top: 4%; 
+}
+.potpot p{
+    margin-left: 20%;
+    margin-top: -2.5%;
+}
+.potpot img{
+    margin-left: -5%;
+    margin-top: 9%;
+}
+.myth{
+    display: flex;
+    padding: 0% 15%;
+}
+.potsy p{
+   margin-top: 2%;
+   margin-left: 1.5%;
+}
+.potsy img{
+    margin-top: 4%; 
+}
+.potpot p{
+    margin-left: 20%;
+    margin-top: -2.5%;
+}
+.potpot img{
+    margin-left: -5%;
+    margin-top: 9%;
+}
+.desk h2{
+    margin-left: 4%;
+    margin-top: 6%;
+}
+.desk p{
+    margin-left: 4%;
+    margin-top: 1%;
+}
+.stp {
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.stp p{
+    margin-top: -1.5%; 
+    margin-left: 10%;
+}
+.stp img{
+    margin-left: 50%;
+    margin-top: -65%;
+}
+.nexty h1{
+    margin-left: 2%;
+}
+.man{
+    display: block;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+.man img{
+    margin-left: -2%;
+}
+.man p{
+    margin-left:5px;
+   margin-top: 1%;
+}
+.mann{
+    display: block;
+    margin-left: 5%;
+    margin-top: -1%;
+}
+.mann img{
+    margin-left: -2%;
+}
+.mann p{
+    margin-left:5px;
+   margin-top: 1%;
+}
+.manner{
+    display: block;
+    margin-left: 5%;
+    margin-top: 4.5%;
+}
+.manner img{
+    margin-left: -2%;
+}
+.manner p{
+    margin-left:5px;
+   margin-top: 1%;
+}
+.nexty{
+    display: flex;
+    margin-left: -25%;
+}
+.plus{
+    text-align: center;
+    margin-top: 2%;
+}
+.plus p{
+    /* text-align: center; */
+    margin-top: 1%; 
+    margin-left: -1%;
+}
+.miks{
+    display: flex;
+    margin-left: 20%;
+    margin-top: 8%;
+}
+.arrowleft{
+    margin-top: 10%;
+}
+.arrowright{
+    margin-top: 10%;
+}
+.fort{
+    text-align: center;
+    margin-left: -20%;
+    margin-top: -10%;
+}
+/* .foot{
+    display: flex;
+} */
+.QM{
+    margin-left: 8.5%;
+    margin-top: 3%;
+}
+.QM p{
+    margin-left: -0.5%;
+    margin-top: 1%;
+}
+.NL{
+    /* margin-left: 2%; */
+    text-align: center;
+    margin-top: -11%;
+}
+.NL p{
+    margin-left: -1.5%;
+    margin-top: 1%;
+}
+.dotted{
+   padding-bottom: 6px;
+}
+.dot{
+    padding-top: 5px;
+}
+.yaix{
+    width: 400px;
+}
+.IN4{
+    margin-left: 80%;
+    margin-top: -11.5%;
+}
+.IN4 p{
+    margin-top: 8%;
+    margin-left: -0.5%;
+}
